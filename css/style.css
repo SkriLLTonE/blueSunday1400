@@ -238,7 +238,8 @@ body {
     max-width: 255px;
     width: 100%;
 }
-.servic__card:last-child{
+
+.servic__card:last-child {
     margin: 0;
 }
 
@@ -256,5 +257,4 @@ body {
     font-size: 14px;
     font-weight: 300;
     line-height: 13px;
-
 }
